@@ -1,3 +1,11 @@
+# Filename: python_dictionaries_example.py
+# Description: Script shows examples of float type
+# Company: Outlaw Moose
+# Author: Todd S ([Your Email], optional)
+# Created on: 2024-09-06
+# Last modified: 2024-09-06
+# Version: 1.0
+
 # Python Dictionaries Examples
 
 # Creating dictionaries
